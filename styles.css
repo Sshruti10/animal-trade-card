@@ -1,0 +1,44 @@
+/* add your CSS here */
+body { 
+    border: 1px solid gray;
+    width: 300px;
+    padding: 0.5cm;
+}
+
+.box {
+    border: 1px solid gray;
+}
+
+.fact { 
+    font-style: italic;
+}
+
+.lb { 
+    font-weight: bold;
+}
+
+.dots { 
+    list-style-type: none;
+}
+
+.border { 
+    border: 1px none gray;
+}
+       
+.space { 
+    padding: 0.25cm;
+} 
+
+ul li {
+    padding: 0cm; 
+}
+
+.imgp { 
+    width: 300px;
+}
+
+#dvlinks ul {
+  
+    padding: 0.25cm;
+}
+
